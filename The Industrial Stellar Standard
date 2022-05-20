@@ -8,7 +8,7 @@
 
 **Guideline 1:** If something fits within the volume of an ISS Class specification, but does not fit into the volume of the next smallest ISS Class specification, then that something belongs to the ISS Class that it fits within the volume of.
 
-**Guideline 2:** If the shortest dimension (X, Y, Z) of something that has an ISS Class is less than a certain size, then that thing receives an additional designation indicating this special condition in its dimensions. The dimension classes are as follows:
+**Guideline 2:** If the shortest dimension (X, Y, Z) of something that has an ISS Class is less than a certain size, then that thing receives an additional designation indicating this special condition in its dimensions. The dimension designations are as follows:
 ```
 Less than Three Quarters of one dimension of its ISS Class specification- **Harvey**
 Less than Half of one dimension of its ISS Class specification- **Scene**
